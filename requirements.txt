@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+langchain-anthropic
+langchain-groq
+langchain-community
+dotenv
+tavily
+fastapi
+uvicorn
+uvicorn[standard]
+python-multipart
